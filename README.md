@@ -13,3 +13,6 @@ DiCE implements counterfactual (CF) explanations that provide this information b
 
 
 ## Causal Inference
+KDD 2021 Tutorial: Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber
+https://github.com/causal-machine-learning/kdd2021-tutorial
+
