@@ -13,6 +13,11 @@ DiCE implements counterfactual (CF) explanations that provide this information b
 
 
 ## Causal Inference
+### Books
+-  Scott Cunningham, "Causal Inference: The Mixtape", 2021, https://mixtape.scunning.com/index.html
+-  Matheus Facure Alves, "Causal Inference for The Brave and True", 2021, https://matheusfacure.github.io/python-causality-handbook/landing-page.html
+
+### Tutorials
 KDD 2021 Tutorial: Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber
 https://github.com/causal-machine-learning/kdd2021-tutorial
 
